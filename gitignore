@@ -1,0 +1,22 @@
+# Reactive Actors plugin repository (this folder is the plugin root, with ReactiveActors.uplugin)
+
+# Build output: rebuilt from source by every user
+Binaries/
+Intermediate/
+
+# Editor and IDE leftovers
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS
+.DS_Store
+Thumbs.db
