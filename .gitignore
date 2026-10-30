@@ -1,4 +1,4 @@
-# Reactive Actors plugin repository (this folder is the plugin root, with ReactiveActors.uplugin)
+# Reactive Actors repository: holds two plugins, ReactiveActors and ReactiveActorsExtras
 
 # Build output: rebuilt from source by every user
 Binaries/
