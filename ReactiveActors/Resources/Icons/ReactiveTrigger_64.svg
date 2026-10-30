@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0.6 0.6 14.8 14.8">
+  <!-- Bolt: light upper half, shaded lower half -->
+  <path d="M10.6 1.2 L2.9 9.5 L7.7 9.5 L8.7 6.6 Z" fill="#D4D4D4" stroke="#D4D4D4" stroke-width="0.7" stroke-linejoin="round"/>
+  <path d="M7.7 9.5 L5.9 14.9 L13.3 6.6 L8.7 6.6 Z" fill="#9E9E9E" stroke="#9E9E9E" stroke-width="0.7" stroke-linejoin="round"/>
+</svg>

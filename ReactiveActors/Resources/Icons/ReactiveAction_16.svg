@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <!-- Play chevron: light upper facet, shaded lower facet -->
+  <path d="M4.25 2.75 L13 8 L4.25 8 Z" fill="#D4D4D4" stroke="#D4D4D4" stroke-width="1.2" stroke-linejoin="round"/>
+  <path d="M4.25 8 L13 8 L4.25 13.25 Z" fill="#9E9E9E" stroke="#9E9E9E" stroke-width="1.2" stroke-linejoin="round"/>
+</svg>

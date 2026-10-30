@@ -1,0 +1,47 @@
+name: Bug report
+description: Something doesn't work the way the docs say it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting! The more of this you fill in, the faster it can be fixed.
+  - type: input
+    id: engine
+    attributes:
+      label: Engine version
+      placeholder: e.g. 5.7.4
+    validations:
+      required: true
+  - type: input
+    id: plugin
+    attributes:
+      label: Plugin version or commit
+      placeholder: e.g. 0.1.0, or the commit you're on
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Ideally in a fresh level, with only built-in pieces.
+      placeholder: |
+        1. Add a Reaction Component to a cube
+        2. ...
+    validations:
+      required: true
+  - type: textarea
+    id: history
+    attributes:
+      label: Reactions.History output
+      description: Run `Reactions.History 50` in the console right after it goes wrong, and paste the result.
+      render: text
+  - type: textarea
+    id: log
+    attributes:
+      label: Warnings or errors from the Output Log
+      description: Filter by `LogReactiveActors`.
+      render: text

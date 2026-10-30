@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://jaystaples.github.io/ReactiveActorsDocs/
+    about: Guides, the built-in reference and the FAQ.
+  - name: Questions and ideas
+    url: https://github.com/jaystaples/ReactiveActors/discussions
+    about: Ask how to do something, or talk through an idea before opening an issue.
